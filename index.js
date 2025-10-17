@@ -17,3 +17,8 @@ function sub(n1,n2){
 
 console.log(sub(3,4));
 console.log("hello world");
+
+
+function mult(n1,n2){
+    return n1*n2;
+}
